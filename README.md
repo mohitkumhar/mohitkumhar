@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mohit Kumhar and I'm a BackEnd Developer, from Jaipur (Rajasthan)</h2>
+<h2 align="left">Hi 👋! I'm Mohit Kumhar <h2>
 
 ###
 
