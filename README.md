@@ -2,10 +2,40 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohitkumhar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitkumhar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<br />
+
+I'm a self-taught passionate BackEnd developer from India 🇮🇳
+
+**About me**
+
+- 💼 Me on Linkedin [Here](https://www.linkedin.com/in/mohitkumhar/)
+
+- 📈 Built github-readme-stats,
+
+- ❤️ I love writing Python, and building fun experiments
+
+- 💬 Ask me about anything [here](https://github.com/mohitkumhar/mohitkumhar/issues)
+
+
+| <a href="https://github.com/mohitkumhar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohitkumhar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mohit's github stats" /></a> | <a href="https://github.com/mohitkumhar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkumhar&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
+
+
+<a href="https://github.com/mohitkumhar/leetcode_solution">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohitkumhar&repo=leetcode_solution&theme=buefy" />
+</a>
+
+<a href="https://github.com/mohitkumhar/internshala_scraping">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohitkumhar&repo=internshala_scraping&theme=buefy" />
+</a>
+
+<br />
+<br />
+
+
+
 
 ###
 
@@ -20,9 +50,13 @@
   <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="30" alt="Django logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="Flask logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c%2B%2B/c%2B%2B-original.svg" height="30" alt="C++ logo" />
+  <img src="[https://iconduck.com/icons/27285/django?shared" height="30" alt="CPP logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
