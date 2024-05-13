@@ -74,7 +74,7 @@
 
 <!-- Social Media Icons using shields.io -->
 <div>
-<a href="https://www.youtube.com" target="_blank">
+<a href="https://www.youtube.com/@mohitmolela" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube Logo" />
 </a>
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram Logo" />
