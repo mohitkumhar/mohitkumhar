@@ -22,7 +22,7 @@ jobs:
       - name: Commit Snake Gif
         uses: EndBug/add-and-commit@v7
         with:
-          author_name: "Your Name"
-          author_email: "your-email@example.com"
+          author_name: "Mohit Kumhar"
+          author_email: "mohitmolela@gmail.com"
           message: "Update contribution snake"
           add: "output/github-contribution-grid-snake.svg"
