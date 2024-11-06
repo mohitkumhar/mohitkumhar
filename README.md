@@ -79,7 +79,7 @@
 
 <!-- Snake animation for contributions -->
 <h2>🐍 Contributions 🐍</h2>
-<img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+<img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/mohitkumhar/mohitkumhar/output/github-contribution-grid-snake.svg" />
 
 <br><br>
 
