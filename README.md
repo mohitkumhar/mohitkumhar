@@ -1,4 +1,3 @@
-
 <!-- Main heading -->
 <h2 align="center">Hi 👋! I'm Mohit Kumhar</h2>
 
@@ -8,21 +7,23 @@
 <!-- Introduction -->
 <p align="center">I'm a self-taught passionate BackEnd developer from India 🇮🇳</p>
 
-<!-- About me section -->
-<img align="right" height="180" src="https://github.com/mohitkumhar/mohitkumhar/assets/107917553/9879c252-fe8f-4035-b49a-cddd86e86782"/>
-<h3>About me</h3>
+<!-- About Me section with image on the right -->
+<img align="right" height="180" src="https://github.com/mohitkumhar/mohitkumhar/assets/107917553/9879c252-fe8f-4035-b49a-cddd86e86782" alt="Profile Image"/>
+<h3>About Me</h3>
 
 <ul>
-<!-- Display animated GIF at the top and aligned to the right -->
   <li>💼 Connect with me on <a href="https://www.linkedin.com/in/mohitkumhar/">LinkedIn</a></li>
   <li>📈 Creator of github-readme-stats</li>
   <li>❤️ I love writing Python and building fun experiments</li>
   <li>💬 Ask me about anything <a href="https://github.com/mohitkumhar/mohitkumhar/issues">here</a></li>
 </ul>
 
+<br><br>
+
 <!-- GitHub Stats and Top Repositories section -->
 <h3>GitHub Stats and Top Repositories</h3>
 
+<!-- GitHub Stats in a table layout -->
 <table>
   <tr>
     <td>
@@ -38,21 +39,55 @@
   </tr>
 </table>
 
-<!-- Top Repositories section -->
+<br>
+
+<!-- Top Repositories -->
 <h4>Top Repositories</h4>
 
 <a href="https://github.com/mohitkumhar/leetcode_solution">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohitkumhar&repo=leetcode_solution&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohitkumhar&repo=leetcode_solution&theme=buefy" alt="LeetCode Solutions Repo" />
 </a>
 
 <a href="https://github.com/mohitkumhar/internshala_scraping">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohitkumhar&repo=internshala_scraping&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohitkumhar&repo=internshala_scraping&theme=buefy" alt="Internshala Scraping Repo" />
 </a>
+
+<br><br>
+
+
+<!-- LeetCode Trophy section -->
+<h2 align="center">LeetCode Trophy 🏆</h2> 
+
+<br>
+<!-- LeetCode Info section with images -->
+<h2 align="center">LeetCode Info</h2>  
+<p align="center">
+  <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="LeetCode Badge" height="200" width="200" /></a>
+  <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="LeetCode Badge" height="200" width="200" /></a>
+  <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Days LeetCode Badge" height="200" width="200" /></a>
+  <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" alt="June LeetCode Badge" height="200" width="200" /></a>
+</p>
+
+<br><br>
+
+
+<!-- Trophy for number of problems solved -->
+<a href="https://leetcode.com/mohitkumhar/">
+  <<img align="center" src="https://leetcard.jacoblin.cool/mohitkumhar?theme=dark&font=Akshar&ext=heatmap" alt="LeetCode Stats" />
+</a>
+
+
+<!-- Snake animation for contributions -->
+<h2>🐍 Contributions 🐍</h2>
+<img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+
+<br><br>
+
 
 <!-- Technologies and Social Media Icons section -->
 <h3>Technologies and Social Media</h3>
 
-<!-- List of technologies using devicons -->
+<!-- Icons for technologies using Devicons and images -->
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
   <img src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" height="30" alt="Django" />
@@ -67,31 +102,32 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
   <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" height="30" alt="Jupyter" />
-  <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" height="30" alt="VS-Code" />
+  <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" height="30" alt="VS Code" />
 </div>
-<br>
-<br>
 
-<!-- Social Media Icons using shields.io -->
+<br><br>
+
+
+<!-- Social Media Links -->
 <div>
-  
-<a href="https://www.youtube.com/@mohitmolela" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube Logo" />
-</a>
-  
-<a href="https://www.instagram.com/mohit_prajapat_7" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram Logo" />
-</a>
+  <a href="https://www.youtube.com/@mohitmolela" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" />
+  </a>
 
-<a href="mailto:mohitmolela@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail Logo" />
-</a>
+  <a href="https://www.instagram.com/mohit_prajapat_7" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
+  </a>
 
-<a href="https://www.linkedin.com/in/mohitkumhar/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn Logo" />
-</a>
+  <a href="mailto:mohitmolela@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
 
-  </div>
+  <a href="https://www.linkedin.com/in/mohitkumhar/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+</div>
 
-<!-- Snake animation -->
-<!-- <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" /> -->
+<br><br>
+
+
+
