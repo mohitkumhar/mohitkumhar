@@ -20,29 +20,28 @@
 
 <br><br>
 
-<!-- GitHub Stats and Top Repositories section -->
-<h3>GitHub Stats and Top Repositories</h3>
+# 📊 GitHub Stats:
 
-<!-- GitHub Stats in a table layout -->
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/mohitkumhar/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohitkumhar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mohit's GitHub Stats" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/mohitkumhar/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkumhar&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" />
-      </a>
-    </td>
-  </tr>
-</table>
+![](https://github-readme-stats.vercel.app/api?username=mohitkumhar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mohitkumhar&theme=dark&hide_border=false)<br/>
+<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkumhar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<br>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mohitkumhar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=mohitkumhar&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <br>
 
 <!-- Top Repositories -->
-<h4>Top Repositories</h4>
+## Top Repositories
 
 <a href="https://github.com/mohitkumhar/leetcode_solution">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohitkumhar&repo=leetcode_solution&theme=buefy" alt="LeetCode Solutions Repo" />
@@ -60,7 +59,6 @@
 
 <br>
 <!-- LeetCode Info section with images -->
-<h2 align="center">LeetCode Info</h2>  
 <p align="center">
   <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="LeetCode Badge" height="200" width="200" /></a>
   <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="LeetCode Badge" height="200" width="200" /></a>
@@ -72,15 +70,16 @@
 
 
 <!-- Trophy for number of problems solved -->
+<h2 align="left">LeetCode Info</h2>  
 <a href="https://leetcode.com/mohitkumhar/">
   <<img align="center" src="https://leetcard.jacoblin.cool/mohitkumhar?theme=dark&font=Akshar&ext=heatmap" alt="LeetCode Stats" />
 </a>
 
 
 <!-- Snake animation for contributions -->
-<h2>🐍 Contributions 🐍</h2>
+<!-- <h2>🐍 Contributions 🐍</h2>
 <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/mohitkumhar/mohitkumhar/output/github-contribution-grid-snake.svg" />
-
+-->
 <br><br>
 
 
