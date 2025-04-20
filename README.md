@@ -5,7 +5,7 @@
 <hr />
 
 <!-- Introduction -->
-<p align="center">A self-taught passionate BackEnd developer from India 🇮🇳</p>
+<p align="center">A self-taught passionate Python developer from India 🇮🇳</p>
 
 <!-- About Me section with image on the right -->
 <img align="right" height="180" src="https://github.com/mohitkumhar/mohitkumhar/assets/107917553/9879c252-fe8f-4035-b49a-cddd86e86782" alt="Profile Image"/>
