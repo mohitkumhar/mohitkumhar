@@ -20,7 +20,6 @@
 </ul>
 
 <br><br>
-![](https://komarev.com/ghpvc/?username=mohitkumhar)
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=mohitkumhar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -132,7 +131,11 @@
   <a href="https://www.linkedin.com/in/mohitkumhar/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
+
+![](https://komarev.com/ghpvc/?username=mohitkumhar)
+
 </div>
+
 
 <br><br>
 
