@@ -40,11 +40,11 @@
 <!-- Top Repositories -->
 ## Top Repositories
 
-<a href="https://github.com/mohitkumhar/leetcode_solution">
+<a href="https://github.com/mohitkumhar/Ai-Development">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohitkumhar&repo=leetcode_solution&theme=buefy" alt="LeetCode Solutions Repo" />
 </a>
 
-<a href="https://github.com/mohitkumhar/internshala_scraping">
+<a href="https://github.com/mohitkumhar/dsa">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohitkumhar&repo=internshala_scraping&theme=buefy" alt="Internshala Scraping Repo" />
 </a>
 
