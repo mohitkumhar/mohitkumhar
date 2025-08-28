@@ -2,7 +2,7 @@
 <h2 align="center">Hi 👋! This is Mohit Kumhar</h2>
 
 <!-- Horizontal line -->
-<hr />
+
 
 <!-- Introduction -->
 <p align="center">A self-taught passionate Python developer🐍 from India 🇮🇳</p>
@@ -18,17 +18,14 @@
   <li>❤️ I love writing Python and building fun experiments</li>
   <li>💬 Ask me about anything <a href="https://github.com/mohitkumhar/mohitkumhar/issues">here</a></li>
 </ul>
-
+<hr>
 <br><br>
 # 📊 GitHub Stats:
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=mohitkumhar&theme=github-compact)
 
-![](https://github-readme-stats.vercel.app/api?username=mohitkumhar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohitkumhar&theme=dark&hide_border=false)<br/>
-<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkumhar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+| ![](https://github-readme-stats.vercel.app/api?username=mohitkumhar&theme=dark&hide_border=false&include_all_commits=true&count_private=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=mohitkumhar&theme=dark&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkumhar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
+|---|---|---|
 
 <br>
 
