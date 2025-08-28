@@ -23,7 +23,8 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=mohitkumhar&theme=github-compact)
+![](https://github-readme-activity-graph.vercel.app/graph?username=mohitkumhar&theme=github-compact&custom_title=Here%20is%20Mohit's%20Contribution&hide_border=true&area=true&color=708090&line=ff69b4&point=dda0dd)
+
 
 | ![](https://github-readme-stats.vercel.app/api?username=mohitkumhar&theme=dark&hide_border=false&include_all_commits=true&count_private=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=mohitkumhar&theme=dark&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkumhar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
 |---|---|---|
