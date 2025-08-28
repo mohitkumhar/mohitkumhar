@@ -19,7 +19,8 @@
   <li>💬 Ask me about anything <a href="https://github.com/mohitkumhar/mohitkumhar/issues">here</a></li>
 </ul>
 <hr>
-<br><br>
+<br>
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=mohitkumhar&theme=github-compact)
