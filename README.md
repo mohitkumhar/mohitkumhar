@@ -77,11 +77,6 @@
   <<img align="center" src="https://leetcard.jacoblin.cool/mohitkumhar?theme=dark&font=Akshar&ext=heatmap" alt="LeetCode Stats" />
 </a>
 
-
-<!-- Snake animation for contributions -->
-<!-- <h2>🐍 Contributions 🐍</h2>
-<img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/mohitkumhar/mohitkumhar/output/github-contribution-grid-snake.svg" />
--->
 <br><br>
 
 
