@@ -11,7 +11,6 @@
 <img align="right" height="180" src="https://github.com/mohitkumhar/mohitkumhar/assets/107917553/9879c252-fe8f-4035-b49a-cddd86e86782" alt="Profile Image"/>
 <h3>About Me</h3>
 
-
 <ul>
   <li>💼 Connect with me on <a href="https://www.linkedin.com/in/mohitkumhar/">LinkedIn</a></li>
   <li>📈 Creator of github-readme-stats</li>
