@@ -7,7 +7,7 @@
 <p align="center">A self-taught passionate Python developer🐍 from India 🇮🇳</p>
 
 <!-- About Me section with image on the right -->
-<img align="right" height="180" src="https://github.com/mohitkumhar/mohitkumhar/assets/107917553/9879c252-fe8f-4035-b49a-cddd86e86782" alt="Profile Image"/>
+<img align="right" height="180" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYThhaXJjZGh0c2ZzdjZnbTF6dDRoNGNpOHplbTk2YTQ1M3c0NWtvMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTPjPA6SSXgTsnZ1Dh/giphy.gif" alt="Profile Image"/>
 <h3>About Me</h3>
 
 <ul>
