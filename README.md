@@ -56,17 +56,22 @@
 
 <br>
 <!-- LeetCode Info section with images -->
-<p align="center">
-  <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" alt="LeetCode Badge" height="200" width="200" /></a>
-  <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="LeetCode Badge" height="200" width="200" /></a>
-  <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode Badge" height="200" width="200" /></a>
-  <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode Badge" height="200" width="200" /></a>
-  <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="LeetCode Badge" height="200" width="200" /></a>
-  <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/200.gif" alt="LeetCode Badge" height="200" width="200" /></a>
-  <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="LeetCode Badge" height="200" width="200" /></a>
-  <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Days LeetCode Badge" height="200" width="200" /></a>
-  <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" alt="June LeetCode Badge" height="200" width="200" /></a>
-</p>
+<div align="center">
+  <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" alt="LeetCode Badge" height="150" width="150" /></a>
+  <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="LeetCode Badge" height="150" width="150" /></a>
+  <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode Badge" height="150" width="150" /></a>
+
+  <details>
+    <summary><b>Show More Badges</b></summary>
+    <br>
+    <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode Badge" height="120" width="120" /></a>
+    <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="LeetCode Badge" height="120" width="120" /></a>
+    <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img src="https://assets.leetcode.com/static_assets/others/200.gif" alt="LeetCode Badge" height="120" width="120" /></a>
+    <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="LeetCode Badge" height="120" width="120" /></a>
+    <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Days LeetCode Badge" height="120" width="120" /></a>
+    <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" alt="June LeetCode Badge" height="120" width="120" /></a>
+  </details>
+</div>
 
 <br><br>
 
