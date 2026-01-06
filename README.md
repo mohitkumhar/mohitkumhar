@@ -57,13 +57,14 @@
 <br>
 <!-- LeetCode Info section with images -->
 <div align="center">
-  <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" alt="LeetCode Badge" height="150" width="150" /></a>
-  <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="LeetCode Badge" height="150" width="150" /></a>
-  <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode Badge" height="150" width="150" /></a>
+  <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" alt="LeetCode 500 Days Badge" height="150" width="150" /></a>
+  <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="LeetCode 365 Days Badge" height="150" width="150" /></a>
+  <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img src="https://assets.leetcode.com/static_assets/others/2025.gif" alt="LeetCode 2025 Annual Badge" height="150" width="150" /></a>
 
   <details>
     <summary><b>Show More Badges</b></summary>
     <br>
+    <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode Badge" height="150" width="150" /></a>
     <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode Badge" height="120" width="120" /></a>
     <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="LeetCode Badge" height="120" width="120" /></a>
     <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img src="https://assets.leetcode.com/static_assets/others/200.gif" alt="LeetCode Badge" height="120" width="120" /></a>
