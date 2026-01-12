@@ -13,9 +13,9 @@
 
 <ul>
   <li>💼 Connect with me on <a href="https://www.linkedin.com/in/mohitkumhar/">LinkedIn</a></li>
-  <li>📈 Creator of github-readme-stats</li>
-  <li>❤️ I love writing Python and building fun experiments</li>
-  <li>💬 Ask me about anything <a href="https://github.com/mohitkumhar/mohitkumhar/issues">here</a></li>
+  <li>🤖 AI enthusiast</li>
+  <li>❤️ I love writing in Python and building fun experiments</li>
+  <li>💬 Ask me anything <a href="https://github.com/mohitkumhar/mohitkumhar/issues">here</a></li>
 </ul>
 <hr>
 <br>
