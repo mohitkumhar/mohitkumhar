@@ -26,7 +26,7 @@
 
 
 
-![GitHub Stats](https://github-read-me-stats.vercel.app/api/streak?username=mohitkumhar&include_all_commits=true&count_private=true&theme=merko&layout=compacto)
+![GitHub Stats](https://github-read-me-stats.vercel.app/api?username=mohitkumhar&theme=dark&hide_border=false&include_all_commits=true&count_private=tru)
 ![GitHub Stats](https://github-read-me-stats.vercel.app/api/streak?username=mohitkumhar&include_all_commits=true&count_private=true&layout=compact&theme=merko)
 ![GitHub Stats](https://github-read-me-stats.vercel.app/api/top-langs/?username=mohitkumhar&layout=compact&theme=merko&include_all_commits=true&count_private=true)
 
