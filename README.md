@@ -26,7 +26,7 @@
 ## 🐍 Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/mohitkumhar/snk/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 
