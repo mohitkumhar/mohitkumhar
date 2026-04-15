@@ -23,6 +23,13 @@
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=mohitkumhar&theme=github-compact&custom_title=Here%20is%20Mohit's%20Contribution&hide_border=true&area=true&color=708090&line=ff69b4&point=dda0dd)
 
+## 🐍 Contribution Activity
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
+
+
 
 
 ![GitHub Stats](https://github-read-me-stats.vercel.app/api?username=mohitkumhar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
