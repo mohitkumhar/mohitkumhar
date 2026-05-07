@@ -8,7 +8,6 @@
 
 <!-- About Me section with image on the right -->
 <img align="right" height="180" src="https://github.com/user-attachments/assets/c54f77d3-3e8c-4d7f-b411-0f240a0e33c2"/>
-" alt="Profile Image"/>
 <h3>About Me</h3>
 
 <ul>
