@@ -7,7 +7,8 @@
 
 
 <!-- About Me section with image on the right -->
-<img align="right" height="180" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYThhaXJjZGh0c2ZzdjZnbTF6dDRoNGNpOHplbTk2YTQ1M3c0NWtvMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTPjPA6SSXgTsnZ1Dh/giphy.gif" alt="Profile Image"/>
+<img align="right" height="180" src="https://github.com/user-attachments/assets/c54f77d3-3e8c-4d7f-b411-0f240a0e33c2"/>
+" alt="Profile Image"/>
 <h3>About Me</h3>
 
 <ul>
