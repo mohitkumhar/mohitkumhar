@@ -95,10 +95,12 @@ Hi, I am **Mohit Kumhar**, a self-taught developer who enjoys building useful th
 
 ## Featured Repositories
 
-| Repository | Focus |
-| --- | --- |
-| [**leetcode_solution**](https://github.com/mohitkumhar/leetcode_solution) | DSA practice, problem-solving patterns, and consistent coding improvement |
-| [**internshala_scraping**](https://github.com/mohitkumhar/internshala_scraping) | Python web scraping, automation, and data extraction workflow |
+<div align="center">
+  <img width="49%" src="https://opengraph.githubassets.com/1/mohitkumhar/intelligent-business-agent" />
+  <img width="49%" src="https://opengraph.githubassets.com/1/mohitkumhar/ai-development" />
+</div>
+
+
 
 ## GitHub Analytics
 
@@ -111,10 +113,10 @@ Hi, I am **Mohit Kumhar**, a self-taught developer who enjoys building useful th
   <img height="170" src="https://streak-stats.demolab.com/?user=mohitkumhar&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 <div align="center">
-    <img width="94%" src="https://github-readme-stats-fast.vercel.app/api?username=mohitkumhar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&" alt="All-time GitHub stats" />
+    <img width="75%" src="https://github-readme-stats-fast.vercel.app/api?username=mohitkumhar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&" alt="All-time GitHub stats" />
 </div>
 <br />
-
+<hr>
 <div align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohitkumhar&show_icons=true&include_all_commits=true&hide_border=false&theme=tokyonight&custom_title=mohit alt="GitHub profile stats" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohitkumhar&theme=tokyonight&utcOffset=5.5" alt="Most productive time" />
