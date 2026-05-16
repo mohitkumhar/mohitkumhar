@@ -1,151 +1,188 @@
-<!-- Main heading -->
-<h2 align="center">Hi 👋! This is Mohit Kumhar</h2>
-
-<!-- Introduction -->
-<p align="center">A self-taught passionate Python developer🐍 from India 🇮🇳</p>
-
-
-<!-- About Me section with image on the right -->
-<img align="right" height="180" src="https://github.com/user-attachments/assets/c54f77d3-3e8c-4d7f-b411-0f240a0e33c2"/>
-<h3>About Me</h3>
-
-<ul>
-  <li>💼 Connect with me on <a href="https://www.linkedin.com/in/mohitkumhar/">LinkedIn</a></li>
-  <li>🤖 AI enthusiast</li>
-  <li>❤️ I love writing in Python and building fun experiments</li>
-  <li>💬 Ask me anything <a href="https://github.com/mohitkumhar/mohitkumhar/issues">here</a></li>
-</ul>
-<hr>
-<br>
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=mohitkumhar&theme=github-compact&custom_title=Here%20is%20Mohit's%20Contribution&hide_border=true&area=true&color=708090&line=ff69b4&point=dda0dd)
-
-## 🐍 Contribution Activity
-
-
-
-![GitHub Stats](https://github-read-me-stats.vercel.app/api?username=mohitkumhar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![GitHub Stats](https://github-read-me-stats.vercel.app/api/streak?username=mohitkumhar&include_all_commits=true&count_private=true&layout=compact&theme=merko)
-![GitHub Stats](https://github-read-me-stats.vercel.app/api/top-langs/?username=mohitkumhar&layout=compact&theme=merko&include_all_commits=true&count_private=true)
-
-
-<!--
-| ![](https://github-readme-stats.vercel.app/api?username=mohitkumhar&theme=dark&hide_border=false&include_all_commits=true&count_private=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=mohitkumhar&theme=dark&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkumhar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
-
-
-<br>
-
-## 🏆 GitHub Trophies
-![](https://github-trophies.vercel.app/?username=mohitkumhar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
----
-[![](https://visitcount.itsvg.in/api?id=mohitkumhar&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- Top Repositories -->
-## Top Repositories
-
-<a href="https://github.com/mohitkumhar/Ai-Development">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohitkumhar&repo=leetcode_solution&theme=buefy" alt="LeetCode Solutions Repo" />
-</a>
-
-<a href="https://github.com/mohitkumhar/dsa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohitkumhar&repo=internshala_scraping&theme=buefy" alt="Internshala Scraping Repo" />
-</a>
-
-<br><br>
-
-
-<!-- LeetCode Trophy section -->
-<h2 align="center">LeetCode Trophy 🏆</h2> 
-
-<br>
-<!-- LeetCode Info section with images -->
 <div align="center">
-  <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" alt="LeetCode 500 Days Badge" height="150" width="150" /></a>
-  <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="LeetCode 365 Days Badge" height="150" width="150" /></a>
-  <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img src="https://assets.leetcode.com/static_assets/others/2025.gif" alt="LeetCode 2025 Annual Badge" height="150" width="150" /></a>
-
-  <details>
-    <summary><b>Show More Badges</b></summary>
-    <br>
-    <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img src="https://assets.leetcode.com/static_assets/others/100.gif" alt="LeetCode Badge" height="120" width="120" /></a>
-    <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img src="https://assets.leetcode.com/static_assets/others/50.gif" alt="LeetCode Badge" height="120" width="120" /></a>
-    <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode Badge" height="120" width="120" /></a>
-    <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode Badge" height="120" width="120" /></a>
-    <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="LeetCode Badge" height="120" width="120" /></a>
-    <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img src="https://assets.leetcode.com/static_assets/others/200.gif" alt="LeetCode Badge" height="120" width="120" /></a>
-    <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="LeetCode Badge" height="120" width="120" /></a>
-    <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Days LeetCode Badge" height="120" width="120" /></a>
-    <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" alt="June LeetCode Badge" height="120" width="120" /></a>
-  </details>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:141E30,100:243B55&text=Mohit%20Kumhar&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Python%20Developer%20%7C%20AI%20Agent%20Builder%20%7C%20Data%20Science&descAlignY=58&descSize=18" alt="Mohit Kumhar profile banner" />
 </div>
 
-<br><br>
-
-
-<!-- Trophy for number of problems solved -->
-<h2 align="left">LeetCode Info</h2>  
-<a href="https://leetcode.com/mohitkumhar/">
-  <<img align="center" src="https://leetcard.jacoblin.cool/mohitkumhar?theme=dark&font=Akshar&ext=heatmap" alt="LeetCode Stats" />
-</a>
-
-<br><br>
-
-
-<!-- Technologies and Social Media Icons section -->
-<h3>Technologies and Social Media</h3>
-
-<!-- Icons for technologies using Devicons and images -->
-<div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="30" alt="Scikit-learn" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="30" alt="Matplotlib" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="30" alt="Seaborn" />
-  <img src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" height="30" alt="Django" />
-  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" height="30" alt="Git" />
-  <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" height="30" alt="GitHub" />
-  <img src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" height="30" alt="Flask" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
-  <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" height="30" alt="CPP" />
-  <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" height="30" alt="MySQL" />
-  <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" height="30" alt="PostgreSQL" />
-  <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" height="30" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" height="30" alt="Jupyter" />
-  <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" height="30" alt="VS Code" />
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohitkumhar/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohit%20Kumhar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mohitmolela@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://leetcode.com/mohitkumhar/">
+    <img src="https://img.shields.io/badge/LeetCode-mohitkumhar-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.youtube.com/@mohitmolela">
+    <img src="https://img.shields.io/badge/YouTube-mohitmolela-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
 </div>
 
-<br><br>
+<br />
 
-
-<!-- Social Media Links -->
-<div>
-  <a href="https://www.youtube.com/@mohitmolela" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" />
-  </a>
-
-  <a href="https://www.instagram.com/mohit_prajapat_7" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
-  </a>
-
-  <a href="mailto:mohitmolela@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/mohitkumhar/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-
-![](https://komarev.com/ghpvc/?username=mohitkumhar)
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Self-taught+Python+developer+from+India;Building+AI+agents%2C+RAG+apps+and+automation+systems;Exploring+ML%2C+deep+learning+and+LLM-powered+tools;Solving+DSA+problems+and+learning+every+day" alt="Typing introduction" />
 </div>
 
+---
 
-<br><br>
+## About Me
+
+<img align="right" width="260" src="https://github.com/user-attachments/assets/c54f77d3-3e8c-4d7f-b411-0f240a0e33c2" alt="Developer illustration" />
+
+Hi, I am **Mohit Kumhar**, a self-taught developer who enjoys building useful things with Python, experimenting with AI agents, and sharpening problem-solving skills through DSA.
+
+- I love turning ideas into practical Python projects.
+- Interested in Agentic AI, RAG systems, LLM apps, automation, data science and backend development.
+- I explore machine learning, deep learning, NLP, prompt engineering, vector search, and AI workflow design.
+- Regularly solve LeetCode Question to improve logic and consistency.
+- Open to collaboration, learning opportunities, and meaningful developer conversations.
+- Ask me anything here🙃 -> [GitHub Issues](https://github.com/mohitkumhar/mohitkumhar/issues).
+
+<br clear="right" />
+
+## Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,c,cpp" alt="Core development technologies" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,selenium" alt="AI data and automation technologies" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,mysql,postgres,mongodb" alt="Developer tools and databases" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Vector%20DBs-0F172A?style=flat-square&logo=databricks&logoColor=white" alt="Vector databases" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+</div>
+
+## What I Work On
+
+| Focus Area | What I Build |
+| --- | --- |
+| **Agentic AI** | Tool-using agents, multi-step workflows, autonomous task helpers, and AI automation systems |
+| **RAG Applications** | Document Q&A, semantic search, embeddings, vector databases, and retrieval pipelines |
+| **Machine Learning** | ML experiments, model training practice, evaluation, notebooks, and data workflows |
+| **Deep Learning and NLP** | Neural network practice, text processing, transformers, and LLM-powered features |
+| **Python Development** | Scripts, automation tools, backend logic, APIs, and experiments |
+| **Web Development** | Flask and Django projects with clean backend structure |
+| **Problem Solving** | DSA practice, LeetCode consistency, and algorithmic thinking |
+
+## AI and Agentic AI Toolkit
+
+<div align="center">
+  <img src="https://img.shields.io/badge/AI%20Agents-Tool%20Calling-38BDF8?style=for-the-badge" alt="AI agents tool calling" />
+  <img src="https://img.shields.io/badge/RAG-Vector%20Search-22C55E?style=for-the-badge" alt="RAG vector search" />
+  <img src="https://img.shields.io/badge/LLMs-Prompt%20Engineering-A855F7?style=for-the-badge" alt="LLM prompt engineering" />
+  <img src="https://img.shields.io/badge/ML%20Pipelines-Experimentation-F97316?style=for-the-badge" alt="ML pipelines experimentation" />
+</div>
+
+<br />
+
+| AI Area | Skills I Am Building |
+| --- | --- |
+| **LLM Apps** | Chatbots, AI assistants, structured outputs, tool calling, and prompt workflows |
+| **RAG Systems** | Chunking, embeddings, retrieval, reranking concepts, and knowledge-grounded answers |
+| **Agent Workflows** | Planning, memory concepts, tool orchestration, and task automation |
+| **ML and DL** | Supervised learning, neural networks, NLP basics, model evaluation, and notebooks |
+
+## Featured Repositories
+
+| Repository | Focus |
+| --- | --- |
+| [**leetcode_solution**](https://github.com/mohitkumhar/leetcode_solution) | DSA practice, problem-solving patterns, and consistent coding improvement |
+| [**internshala_scraping**](https://github.com/mohitkumhar/internshala_scraping) | Python web scraping, automation, and data extraction workflow |
+
+## GitHub Analytics
+
+<div align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohitkumhar&theme=react-dark&hide_border=true&area=true&custom_title=Mohit%27s%20Contribution%20Graph" alt="Contribution graph" />
+</div>
+
+<br />
+<div align="center">
+  <img height="170" src="https://streak-stats.demolab.com/?user=mohitkumhar&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
+<div align="center">
+    <img width="94%" src="https://github-readme-stats-fast.vercel.app/api?username=mohitkumhar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&" alt="All-time GitHub stats" />
+</div>
+<br />
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohitkumhar&show_icons=true&include_all_commits=true&hide_border=false&theme=tokyonight&custom_title=mohit alt="GitHub profile stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohitkumhar&theme=tokyonight&utcOffset=5.5" alt="Most productive time" />
+</div>
+
+<br />
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohitkumhar&theme=tokyonight" alt="Repositories per language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohitkumhar&theme=tokyonight" alt="Most committed languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohitkumhar&theme=tokyonight" alt="GitHub profile details" />
+</div>
+
+<br />
 
 
+## GitHub Trophies
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohitkumhar&column=5&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub trophies" />
+</div>
+
+## LeetCode Progress
+
+<div align="center">
+  <a href="https://leetcode.com/mohitkumhar/">
+    <img src="https://leetcard.jacoblin.cool/mohitkumhar?theme=dark&font=Akshar&ext=heatmap" alt="LeetCode stats card" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://leetcode.com/mohitkumhar/">
+    <img src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" alt="LeetCode 500 days badge" width="120" />
+  </a>
+  <a href="https://leetcode.com/mohitkumhar/">
+    <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="LeetCode 365 days badge" width="120" />
+  </a>
+  <a href="https://leetcode.com/mohitkumhar/">
+    <img src="https://assets.leetcode.com/static_assets/others/2025.gif" alt="LeetCode 2025 annual badge" width="120" />
+  </a>
+</div>
+
+<details align="center">
+  <summary><strong>More LeetCode Badges</strong></summary>
+  <br />
+  <a href="https://leetcode.com/mohitkumhar/"><img src="https://assets.leetcode.com/static_assets/others/100.gif" alt="LeetCode 100 days badge" width="95" /></a>
+  <a href="https://leetcode.com/mohitkumhar/"><img src="https://assets.leetcode.com/static_assets/others/50.gif" alt="LeetCode 50 days badge" width="95" /></a>
+  <a href="https://leetcode.com/mohitkumhar/"><img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode badge" width="95" /></a>
+  <a href="https://leetcode.com/mohitkumhar/"><img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode badge" width="95" /></a>
+  <a href="https://leetcode.com/mohitkumhar/"><img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="LeetCode 2024 200 days badge" width="95" /></a>
+  <a href="https://leetcode.com/mohitkumhar/"><img src="https://assets.leetcode.com/static_assets/others/200.gif" alt="LeetCode 200 days badge" width="95" /></a>
+  <a href="https://leetcode.com/mohitkumhar/"><img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="LeetCode 2024 100 days badge" width="95" /></a>
+  <a href="https://leetcode.com/mohitkumhar/"><img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode 2024 50 days badge" width="95" /></a>
+  <a href="https://leetcode.com/mohitkumhar/"><img src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" alt="June LeetCode badge" width="95" /></a>
+</details>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohitkumhar&style=for-the-badge&color=38BDF8" alt="Profile views" />
+  <br />
+  <br />
+  <strong>Thanks for visiting. Keep building, keep learning.</strong>
+</div>
