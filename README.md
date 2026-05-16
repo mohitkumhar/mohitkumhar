@@ -116,7 +116,7 @@ Hi, I am **Mohit Kumhar**, a self-taught developer who enjoys building useful th
 <br />
 <hr>
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohitkumhar&show_icons=true&include_all_commits=true&hide_border=false&theme=tokyonight&custom_title=mohit alt="GitHub profile stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohitkumhar&show_icons=true&include_all_commits=true&hide_border=false&theme=tokyonight" alt="GitHub profile stats" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohitkumhar&theme=tokyonight&utcOffset=5.5" alt="Most productive time" />
 </div>
 
