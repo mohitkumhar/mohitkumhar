@@ -3,6 +3,9 @@
 </div>
 
 <div align="center">
+  <a href="https://mohit.page">
+    <img src="https://img.shields.io/badge/Portfolio-mohit.page-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/mohitkumhar/">
     <img src="https://img.shields.io/badge/LinkedIn-Mohit%20Kumhar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -29,23 +32,21 @@
 
 <img align="right" width="260" src="https://github.com/user-attachments/assets/c54f77d3-3e8c-4d7f-b411-0f240a0e33c2" alt="Developer illustration" />
 
-Hi, I am **Mohit Kumhar**, a self-taught developer who enjoys building useful things with Python, experimenting with AI agents, and sharpening problem-solving skills through DSA.
+Hi, I am **Mohit Kumhar**, a self-taught Python developer from India who likes building practical AI tools, automation systems, and <br> backend projects that solve real problems.
 
-- I love turning ideas into practical Python projects.
-- Interested in Agentic AI, RAG systems, LLM apps, automation, data science and backend development.
-- I explore machine learning, deep learning, NLP, prompt engineering, vector search, and AI workflow design.
-- Regularly solve LeetCode Question to improve logic and consistency.
-- Open to collaboration, learning opportunities, and meaningful developer conversations.
-- Ask me anything here🙃 -> [GitHub Issues](https://github.com/mohitkumhar/mohitkumhar/issues).
+- Exploring Agentic AI, RAG, LLM apps, machine learning, deep learning, NLP, and vector search.
+- Building with Python, FastAPI, Django, Flask, data tools, and AI workflow frameworks.
+- Practicing DSA on LeetCode to keep my problem-solving sharp and consistent.
+- See more of my work on [mohit.page](https://mohit.page), or ask me anything through [GitHub Issues](https://github.com/mohitkumhar/mohitkumhar/issues).
 
 <br clear="right" />
 
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,c,cpp" alt="Core development technologies" />
-  <br />
   <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,selenium" alt="AI data and automation technologies" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=python,django,go,flask,c,cpp" alt="Core development technologies" />
   <br />
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,mysql,postgres,mongodb" alt="Developer tools and databases" />
 </div>
