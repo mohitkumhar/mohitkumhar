@@ -110,10 +110,8 @@ Hi, I am **Mohit Kumhar**, a self-taught developer who enjoys building useful th
 
 <br />
 <div align="center">
-  <img height="170" src="https://streak-stats.demolab.com/?user=mohitkumhar&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
-<div align="center">
-    <img width="75%" src="https://github-readme-stats-fast.vercel.app/api?username=mohitkumhar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&" alt="All-time GitHub stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=mohitkumhar&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+    <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=mohitkumhar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&" alt="All-time GitHub stats" />
 </div>
 <br />
 <hr>
