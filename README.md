@@ -15,6 +15,9 @@
   <a href="https://leetcode.com/mohitkumhar/">
     <img src="https://img.shields.io/badge/LeetCode-mohitkumhar-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
+  <a href="https://www.geeksforgeeks.org/user/mohitkumhar/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-mohitkumhar-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
   <a href="https://www.youtube.com/@mohitmolela">
     <img src="https://img.shields.io/badge/YouTube-mohitmolela-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
@@ -36,7 +39,7 @@ Hi, I am **Mohit Kumhar**, a self-taught Python developer from India who likes b
 
 - Exploring Agentic AI, RAG, LLM apps, machine learning, deep learning, NLP, and vector search.
 - Building with Python, FastAPI, Django, Flask, data tools, and AI workflow frameworks.
-- Practicing DSA on LeetCode to keep my problem-solving sharp and consistent.
+- Practicing DSA on LeetCode and GeeksforGeeks to keep my problem-solving sharp and consistent.
 - See more of my work on [mohit.page](https://mohit.page), or ask me anything through [GitHub Issues](https://github.com/mohitkumhar/mohitkumhar/issues).
 
 <br clear="right" />
@@ -74,7 +77,7 @@ Hi, I am **Mohit Kumhar**, a self-taught Python developer from India who likes b
 | **Deep Learning and NLP** | Neural network practice, text processing, transformers, and LLM-powered features |
 | **Python Development** | Scripts, automation tools, backend logic, APIs, and experiments |
 | **Web Development** | Flask and Django projects with clean backend structure |
-| **Problem Solving** | DSA practice, LeetCode consistency, and algorithmic thinking |
+| **Problem Solving** | DSA practice, programming challenges, and algorithmic thinking |
 
 ## AI and Agentic AI Toolkit
 
@@ -143,11 +146,14 @@ Hi, I am **Mohit Kumhar**, a self-taught Python developer from India who likes b
   <img src="https://github-profile-trophy.vercel.app/?username=mohitkumhar&column=5&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub trophies" />
 </div>
 
-## LeetCode Progress
+## Programming Practice Stats
 
 <div align="center">
   <a href="https://leetcode.com/mohitkumhar/">
-    <img src="https://leetcard.jacoblin.cool/mohitkumhar?theme=dark&font=Akshar&ext=heatmap" alt="LeetCode stats card" />
+    <img width="49%" src="https://leetcard.jacoblin.cool/mohitkumhar?theme=dark&font=Akshar&ext=heatmap" alt="LeetCode stats card" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/mohitkumhar/">
+    <img width="49%" src="https://gfgstatscard.vercel.app/mohitkumhar" alt="GeeksforGeeks stats card" />
   </a>
 </div>
 
@@ -166,7 +172,7 @@ Hi, I am **Mohit Kumhar**, a self-taught Python developer from India who likes b
 </div>
 
 <details align="center">
-  <summary><strong>More LeetCode Badges</strong></summary>
+  <summary><strong>More Coding Practice Badges</strong></summary>
   <br />
   <a href="https://leetcode.com/mohitkumhar/"><img src="https://assets.leetcode.com/static_assets/others/100.gif" alt="LeetCode 100 days badge" width="95" /></a>
   <a href="https://leetcode.com/mohitkumhar/"><img src="https://assets.leetcode.com/static_assets/others/50.gif" alt="LeetCode 50 days badge" width="95" /></a>
