@@ -150,7 +150,7 @@ Hi, I am **Mohit Kumhar**, a self-taught Python developer from India who likes b
 
 <div align="center">
   <a href="https://leetcode.com/mohitkumhar/">
-    <img width="49%" src="https://leetcard.jacoblin.cool/mohitkumhar?theme=dark&font=Akshar&ext=heatmap" alt="LeetCode stats card" />
+    <img width="49%" src="https://leetcard.jacoblin.cool/mohitkumhar?theme=dark&font=Akshar&ext=contest" alt="LeetCode stats card" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/mohitkumhar/">
     <img width="49%" src="https://gfgstatscard.vercel.app/mohitkumhar" alt="GeeksforGeeks stats card" />
