@@ -33,7 +33,7 @@
 
 ## About Me
 
-<img align="right" width="260" src="https://github.com/user-attachments/assets/c54f77d3-3e8c-4d7f-b411-0f240a0e33c2" alt="Developer illustration" />
+<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Developer illustration" />
 
 Hi, I am **Mohit Kumhar**, a self-taught Python developer from India who likes building practical AI tools, automation systems, and <br> backend projects that solve real problems.
 
