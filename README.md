@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:141E30,100:243B55&text=Mohit%20Kumhar&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Python%20Developer%20%7C%20AI%20Agent%20Builder%20%7C%20Data%20Science&descAlignY=58&descSize=18" alt="Mohit Kumhar profile banner" />
 </div>
@@ -187,6 +188,7 @@ Hi, I am **Mohit Kumhar**, a self-taught Python developer from India who likes b
 </details>
 
 ---
+![Snake animation](https://github.com/mohitkumhar/mohitkumhar/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mohitkumhar&style=for-the-badge&color=38BDF8" alt="Profile views" />
