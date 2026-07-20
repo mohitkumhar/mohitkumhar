@@ -175,6 +175,7 @@ Hi, I am **Mohit Kumhar**, a self-taught Python developer from India who likes b
 <details align="center">
   <summary><strong>More Coding Practice Badges</strong></summary>
   <br />
+  <a href="https://leetcode.com/mohitkumhar/"><img src="https://assets.leetcode.com/static_assets/others/2026_200.gif" alt="LeetCode 100 days badge" width="95" /></a>
   <a href="https://leetcode.com/mohitkumhar/"><img src="https://assets.leetcode.com/static_assets/marketing/6.gif" alt="LeetCode 100 days badge" width="95" /></a>
   <a href="https://leetcode.com/mohitkumhar/"><img src="https://assets.leetcode.com/static_assets/others/100.gif" alt="LeetCode 100 days badge" width="95" /></a>
   <a href="https://leetcode.com/mohitkumhar/"><img src="https://assets.leetcode.com/static_assets/others/50.gif" alt="LeetCode 50 days badge" width="95" /></a>
