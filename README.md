@@ -186,6 +186,7 @@ Hi, I am **Mohit Kumhar**, a self-taught Python developer from India who likes b
   <a href="https://leetcode.com/mohitkumhar/"><img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="LeetCode 2024 100 days badge" width="95" /></a>
   <a href="https://leetcode.com/mohitkumhar/"><img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode 2024 50 days badge" width="95" /></a>
   <a href="https://leetcode.com/mohitkumhar/"><img src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" alt="June LeetCode badge" width="95" /></a>
+  <a href="https://leetcode.com/mohitkumhar/"><img src="https://assets.leetcode.com/static_assets/marketing/7.gif" alt="LeetCode 7 July badge" width="95" /></a>
 </details>
 
 ---
