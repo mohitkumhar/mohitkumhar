@@ -190,7 +190,9 @@ Hi, I am **Mohit Kumhar**, a self-taught Python developer from India who likes b
 </details>
 
 ---
+<!--
 ![Snake animation](https://github.com/mohitkumhar/mohitkumhar/blob/output/github-contribution-grid-snake.svg)
+-->
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mohitkumhar&style=for-the-badge&color=38BDF8" alt="Profile views" />
